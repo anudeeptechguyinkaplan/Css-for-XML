@@ -1,0 +1,21 @@
+<?xml version = "1.0" ?>
+<!DOCTYPE food SYSTEM "man.dtd">
+<?xml-stylesheet type="text/css" href="test.css"?>
+<food>
+    <fruit>
+        <name>Orange</name>
+        <color>Orange</color>
+    </fruit>
+    <fruit>
+        <name>Banana</name>
+        <color>Yellow</color>
+    </fruit>
+    <veggie>
+        <name>Spinach</name>
+        <color>green</color>
+    </veggie>
+    <veggie>
+        <name>Carrots</name>
+        <color>Orange</color>
+    </veggie>
+</food>

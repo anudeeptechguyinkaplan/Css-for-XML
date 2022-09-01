@@ -1,0 +1,15 @@
+fruit{
+    font-family:cursive;
+    font-size:larger;
+    color:blue;
+    display:block;
+}
+veggie{
+    color:maroon;
+    font-family:courier, fixed, monospace;
+    font-size:small;
+    display:block;
+}
+color{
+color:green;
+}
